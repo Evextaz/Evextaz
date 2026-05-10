@@ -23,4 +23,4 @@
 ### 📫 Contact
 
 - Discord: evextaz
-- Tebex: ton lien
+
