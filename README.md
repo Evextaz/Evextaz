@@ -1,16 +1,26 @@
-## Hi there 👋
+<h1 align="center">Hi, I'm Evan 👋</h1>
+<h3 align="center">Backend Developer • FiveM Developer</h3>
 
-<!--
-**Evextaz/Evextaz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  Lua • JavaScript • Java
+</p>
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🔧 What I Do
+
+- Script Development
+- Optimization & Performance
+- Server-side Logic
+- Secure Systems
+
+### ⚙️ Tech Stack
+
+<p>
+  <img src="https://skillicons.dev/icons?i=lua,js,java" />
+</p>
+
+### 📫 Contact
+
+- Discord: evextaz
+- Tebex: ton lien
