@@ -32,12 +32,9 @@ un système de A à Z en pensant à tous les cas tordus - pas le laisser à 80 %
 ### Stack
 
 `Lua 5.4` · `HTML/CSS/JS (NUI)` · `oxmysql / mysql-async` · `ox_lib` · `ox_target`
-· `Git` · `CodeWalker` · `OpenIV` · premiers pas sur `OxCore`
+· `Git` · `CodeWalker` · `OpenIV` 
 
-### Ce que j'apprends en ce moment
 
-SQL avancé (procédures stockées, optim de requêtes) et le workflow Git à plusieurs
-(branches feature, code review) — j'ai surtout l'habitude du projet solo.
 
 ---
 
