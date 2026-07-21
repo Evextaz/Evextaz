@@ -14,7 +14,7 @@
 
 ### En deux lignes
 
-Je développe des ressources FiveM depuis ~1 an et demi, sous le nom **Evextaz Development**.
+Je développe des ressources FiveM depuis 2 ans, sous le nom **Evextaz Development**.
 Plutôt backend : ce qui me plaît c'est la logique serveur, la sécurité, et construire
 un système de A à Z en pensant à tous les cas tordus - pas le laisser à 80 %.
 
